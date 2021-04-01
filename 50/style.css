@@ -1,0 +1,74 @@
+.head{
+      
+    background-color:#0000ff;
+    border:solid;
+
+     }
+  
+     .note{
+       background-color: red;
+       border: dotted;
+     }
+  
+  .grid {
+    background: darkred;
+    background-color: #F0F8FF;
+    display: flex;
+    justify-content: last baseline;
+    flex-direction: table;
+    text-align: left;
+    font-style: initial;
+    align-self: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+ }
+  
+  
+  .camel {
+    border: solid black;
+    background-color:#E8E5E4;
+    
+  }
+  
+  
+  .chameleon {
+    border: solid black;
+    background-color:#E8E5E4;
+    
+  }
+  
+  .cicada {
+    border: solid black;
+    background-color:#E8E5E4;
+  }
+  
+  .panda {
+    border: solid black;
+    background-color:#E8E5E4;
+  }
+  
+  .pigeon {
+    border: solid black;
+    background-color:#E8E5E4;
+  }
+  
+  .teddy {
+    border: solid black;
+    background-color:#E8E5E4;
+  }
+
+  .youtube{
+    border: solid black;
+    background-color:#E8E5E4;
+  }
+
+  .instagram{
+    border:solid black;
+    background-color:#E8E5E4;
+  }
+  *{
+    font-style: oblique;
+  }
+  .body{
+    background-color: #0000ff;
+  }
